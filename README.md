@@ -1,4 +1,5 @@
 helloworld
 ==========
 
-just for trail
+just for trail!
+A little programmer's base.
