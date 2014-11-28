@@ -28,3 +28,8 @@ git pull 出错
 > Aborting
 
 这说明本地的commit落后于远程origin
+
+因为pull会丢失本地的修改,所以pull被abort了.
+此时在本地进行commit之后再进行 git pull,
+发生了自动merge, 并且调出了默认的文本编辑器nano要求填写merge的理由.
+由于合并没有冲突,所以没有太多复杂的地方.
