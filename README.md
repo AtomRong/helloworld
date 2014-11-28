@@ -6,8 +6,9 @@ Just for trail!
 A little programmer's base.
 
 Add this line to readme.md by github so that I try command:
-git remote -v    
-git remote add upstream https://github.com/XXXX.git
+>    git remote -v    
+>    git remote add upstream https://github.com/XXXX.git
+
 Configure Git to sync your fork with the original repository
 > 突然明白了一点:
 如果你的项目P是fork了A的, A是fork B的;
